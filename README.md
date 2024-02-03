@@ -1,5 +1,5 @@
 
-### API .NET Core 8 com Kafka e SQL Server
+### API .NET Core 8, API Gateway - YARP, Kafka, SQL Server, Redis, MongoDB #gfmaurila
 
 ## Descrição
 Este tutorial abrangente guia você através da criação de uma arquitetura de microserviços usando .NET Core 8, focando na integração de um gateway e três APIs distintas. Aprenda a configurar um ambiente robusto com Docker Compose, facilitando a implantação e a escalabilidade. Explore a comunicação entre serviços com Apache Kafka e a persistência de dados usando SQL Server. Além disso, descubra como aprimorar a performance e a resiliência com Redis para caching e MongoDB para logging com Serilog.
